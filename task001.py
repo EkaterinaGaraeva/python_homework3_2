@@ -18,7 +18,7 @@ def find_number2(list_of_strings, number):
     else:
         print(f'В списке строк нет числа {number}')
 
-new_list = ['qwerty1', 'uiop2', 'asdfg3']
+new_list = ['1qwerty', 'uiop2', 'asd3fg']
 n = int(input('Введите число: '))
 find_number(new_list, n)
 find_number2(new_list, n)
